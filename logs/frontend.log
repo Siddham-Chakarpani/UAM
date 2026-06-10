@@ -1,0 +1,18 @@
+
+> uam-frontend@0.0.0 dev
+> vite --port 5173 --host
+
+1:59:27 pm [vite] (client) Re-optimizing dependencies because vite config has changed
+
+  VITE v8.0.16  ready in 179 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: http://127.0.2.2:5173/
+  ➜  Network: http://127.0.2.3:5173/
+  ➜  Network: http://192.168.1.16:5173/
+  ➜  Network: http://172.16.0.2:5173/
+2:00:31 pm [vite] (client) page reload src/main.jsx
+2:00:46 pm [vite] (client) page reload src/pages/SecurityReports.jsx
+2:00:56 pm [vite] (client) page reload src/pages/SecurityReports.jsx
+2:01:19 pm [vite] (client) page reload src/pages/Dashboard.jsx
+2:01:47 pm [vite] (client) page reload src/pages/Governance.jsx
